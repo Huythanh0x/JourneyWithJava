@@ -4,7 +4,39 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29969567-c8f8-4acb-bae1-d3d54995188d" name="Changes" comment="" />
+    <list default="true" id="29969567-c8f8-4acb-bae1-d3d54995188d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/SpringAcademyCashCard/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringAcademyCashCard/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringAcademyCashCard/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringAcademyCashCard/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringAcademyCashCard/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringAcademyCashCard/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringAcademyCashCard/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringAcademyCashCard/src/main/java/com/example/springacademycashcard/SpringAcademyCashCardApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringAcademyCashCard/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringAcademyCashCard/src/test/java/com/example/springacademycashcard/SpringAcademyCashCardApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringWithKotlin/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringWithKotlin/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringWithKotlin/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringWithKotlin/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringWithKotlin/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringWithKotlin/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringWithKotlin/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringWithKotlin/src/main/kotlin/com/huythanh0x/springwithkotlin/SpringWithKotlinApplication.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringWithKotlin/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringWithKotlin/src/test/kotlin/com/huythanh0x/springwithkotlin/SpringWithKotlinApplicationTests.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackrrankAndLeetCode/src/main/java/com/huythanh0x/hackerrank_30_days_of_code/Day20.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackrrankAndLeetCode/src/main/java/com/huythanh0x/hackerrank_30_days_of_code/Day20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/huythanh0x/Main.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,23 +47,135 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2Q7xMljbqdp4VDuYyWm9vIRHi0I" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/vohuythanh/IdeaProjects/JourneyWithJavaFrom0/FirstCRUDSpringApp&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.huythanh0x.hackerrank_30_days_of_code" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/FirstCRUDSpringApp" />
+      <recent name="$PROJECT_DIR$/HackrrankAndLeetCode" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/huythanh0x/hackerrank_30_days_of_code" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.huythanh0x.hackerrank_30_days_of_code" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Day20">
+    <configuration name="Day13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.huythanh0x.hackerrank_30_days_of_code.Day13" />
+      <module name="JourneyWithJavaFrom0.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.huythanh0x.hackerrank_30_days_of_code.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.huythanh0x.hackerrank_30_days_of_code.Day14" />
+      <module name="JourneyWithJavaFrom0.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.huythanh0x.hackerrank_30_days_of_code.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.huythanh0x.hackerrank_30_days_of_code.Day18" />
+      <module name="JourneyWithJavaFrom0.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.huythanh0x.hackerrank_30_days_of_code.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.huythanh0x.hackerrank_30_days_of_code.Day19" />
+      <module name="JourneyWithJavaFrom0.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.huythanh0x.hackerrank_30_days_of_code.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.huythanh0x.hackerrank_30_days_of_code.Day20" />
+      <module name="JourneyWithJavaFrom0.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.huythanh0x.hackerrank_30_days_of_code.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Day20" />
+        <item itemvalue="Application.Day19" />
+        <item itemvalue="Application.Day18" />
+        <item itemvalue="Application.Day14" />
+        <item itemvalue="Application.Day13" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -40,8 +184,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1684718374930</updated>
-      <workItem from="1684718376007" duration="2000" />
+      <workItem from="1684718376007" duration="7805000" />
+      <workItem from="1684739925157" duration="1257000" />
+      <workItem from="1684817516917" duration="10972000" />
+      <workItem from="1684832279396" duration="3673000" />
+      <workItem from="1684890537865" duration="1385000" />
+      <workItem from="1684918052154" duration="1213000" />
+      <workItem from="1684941188463" duration="3510000" />
+      <workItem from="1684987644907" duration="10329000" />
+      <workItem from="1685063420540" duration="1325000" />
+      <workItem from="1685072510500" duration="15000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>

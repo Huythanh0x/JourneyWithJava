@@ -43,7 +43,7 @@ class Day20 {
         }
         System.out.println("Array is sorted in " + numberOfSwaps + " swaps.");
         System.out.println("First Element: " + a.get(0));
-        System.out.println("Last Element: 3" + a.get(a.size() - 1));
+        System.out.println("Last Element: " + a.get(a.size() - 1));
         bufferedReader.close();
     }
 }
